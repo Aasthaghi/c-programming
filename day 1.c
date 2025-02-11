@@ -15,7 +15,7 @@ int main()
     printf("armstrong");}
      else
     {
-        printf("not armstrong");
+        printf("not a armstrong");
     }
     return 0;
   }
